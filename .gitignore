@@ -1,8 +1,8 @@
-tp.aux
-tp.log
-tp.pdf
-tp.out
-tp.dvi
+*.aux
+*.log
+*.pdf
+*.out
+*.dvi
 *.snm
 *.toc
 *.nav
