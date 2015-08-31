@@ -3,3 +3,6 @@ tp.log
 tp.pdf
 tp.out
 tp.dvi
+*.snm
+*.toc
+*.nav
