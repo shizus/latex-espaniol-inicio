@@ -5,4 +5,4 @@ Para empezar un LaTex en español con fórmulas
 
 Descargar pdflatex / Download pdflatex
 
-pdflatex hello.tex
+pdflatex tp.tex
